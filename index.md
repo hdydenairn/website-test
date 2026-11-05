@@ -2,22 +2,10 @@
 layout: homepage
 ---
 
-## About Me
+My research examines how trade and industrial policies influence natural resources and the environment, and vice versa. 
 
-I am a Ph.D. student at ...
+### Ongoing Works (Working Papers Available Upon Request):
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
+- How to Build the Urban Mine: Extraction, Recycling and Policy (formerly circulated as *Extraction, Recycling, and the Environmental and Health Costs of Circularity*)
+- Who Matters to Whom? Mapping Source–Destination Dependencies in Renewable Energy Supply Chains, with [María-Eugenia Sanin](https://sites.google.com/site/meugeniasanin/)
+- Foreign Demand and Deforestation: Evidence from China’s Imports of Brazillian Beef
