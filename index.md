@@ -4,6 +4,8 @@ layout: homepage
 
 My research examines how trade and industrial policies influence natural resources and the environment, and vice versa. 
 
+[CV]([https://github.com/hdydenairn/website-test/blob/main/assets/files/cv_nov26.pdf) (Updated November 2026).
+
 ### Ongoing Works (Working Papers Available Upon Request):
 
 - How to Build the Urban Mine: Extraction, Recycling and Policy (formerly circulated as *Extraction, Recycling, and the Environmental and Health Costs of Circularity*)
